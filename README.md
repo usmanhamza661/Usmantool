@@ -1,2 +1,1 @@
-# Usmansoftware
 # phone-info
